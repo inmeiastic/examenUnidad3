@@ -4,5 +4,6 @@ main()
 {
 
 cout<<"hello world"<<endl;
+cout<<"bye world"<<endl;
 
 getch();}
